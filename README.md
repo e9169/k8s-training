@@ -14,7 +14,7 @@ A summary of most of the commands used in the exercises is available at the
 - [02-declarative-deployment.md](02-declarative-deployment.md)
 - [03-service-discovery.md](03-service-discovery.md)
 - [04-rolling-updates.md](04-rolling-updates.md)
-- [05-storage.md](06-storage.md)
+- [05-storage.md](05-storage.md)
 
 
 ## Setup
