@@ -77,4 +77,4 @@ for a more extended overview of the `kubectl` command.
 [kind]: https://kind.sigs.k8s.io/
 [minikube]: https://minikube.sigs.k8s.io/docs/
 [autocompletion]:
-  https://kubernetes.io/docs/tasks/tools/install-kubectl/#enabling-shell-autocompletion
+  https://kubernetes.io/docs/reference/kubectl/cheatsheet/
